@@ -1,4 +1,4 @@
- Play Store App Performance & Sentiment Dashboard
+ #### Play Store App Performance & Sentiment Dashboard
 
 An interactive Power BI dashboard analyzing app performance, pricing strategy, and user sentiment across the Google Play Store — built as a follow-up to my [Play Store EDA project](https://github.com/Dhanush086/Playstore-app-review-analysis) (Python/Pandas), translating those findings into a business-ready visual tool.
 
@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing app performance, pricing strategy, a
 
 How can app publishers and product teams use category performance, pricing strategy, and user sentiment data to identify which app categories offer the best growth and monetization opportunities?
 
- Dataset
+ ### Dataset
 
 
 
@@ -28,7 +28,7 @@ Same cleaned dataset used in my [Python EDA project](https://github.com/Dhanush0
 
 
 
-🛠️ Tools Used
+### Tools Used
 
 
 
@@ -46,7 +46,7 @@ Python / Pandas (initial dataset cleaning, upstream of this dashboard)
 
 
 
- Dashboard Overview
+ ### Dashboard Overview
 
 A single-page interactive dashboard with 7 visuals and 3 global slicers (Category, Type, Content Rating).
 
@@ -191,13 +191,13 @@ Among paid apps, higher price does not clearly correlate with higher rating — 
 64% of reviews are Positive, 22% Negative, 14% Neutral — but sentiment breakdown varies notably by category, revealing categories with strong install/rating numbers that still carry a meaningful share of negative reviews
 
 
- Dashboard Preview
+ ## Dashboard Preview
 
 Dashboard Default View
 Dashboard Filtered View
 Presentation Mode
 
-🔗 Links
+## Links
 
 
 
@@ -218,6 +218,6 @@ Note: A live Power BI Service shareable link isn't included, as publishing requi
 
 
 
-📄 Documentation
+## Documentation
 
 Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in documentation.pdf.
