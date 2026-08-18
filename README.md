@@ -55,17 +55,19 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 
 ---
 
-##  Dashboard Preview
+## Dashboard Preview
 
 ### Default View
-![Dashboard Default View](images/dashboard_default.png)
+
+![Dashboard Default View](screenshort/dashboard_default.png)
 
 ### Filtered View
-![Dashboard Filtered View](images/dashboard_filtered.png)
+
+![Dashboard Filtered View](screenshort/dashboard_filtered.png)
 
 ### Presentation Mode
-![Dashboard Presentation Mode](images/dashboard_presentation.png)
 
+![Dashboard Presentation Mode](screenshort/dashboard_presentation_mode.png)
 ---
 
 ##  Links
