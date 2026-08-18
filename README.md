@@ -12,8 +12,9 @@ An interactive Power BI dashboard analyzing app performance, pricing strategy, a
 
 ##  Dataset
 
-**Source:** [Google Play Store Apps dataset (Kaggle)](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
-
+**Source:** [https://www.kaggle.com/datasets/yassershrief/goggle-play-data ](https://www.kaggle.com/datasets/yassershrief/goggle-play-data?utm_source=chatgpt.com)
+            [Google Play Store User Reviews - Kaggle](https://www.kaggle.com/datasets/rowemorehouse/googleplaystoreuserreviews)
+            
 * **Apps table:** 9,637 apps (post-cleaning) — category, rating, installs, price, size, type, content rating
 * **Reviews table:** ~64,000 user reviews with sentiment labels (Positive / Negative / Neutral)
 
