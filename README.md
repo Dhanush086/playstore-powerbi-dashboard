@@ -12,11 +12,12 @@ An interactive Power BI dashboard analyzing app performance, pricing strategy, a
 
 ##  Dataset
 
-**Source:** [https://www.kaggle.com/datasets/yassershrief/goggle-play-data ](https://www.kaggle.com/datasets/yassershrief/goggle-play-data?utm_source=chatgpt.com)
+**Source:**
+[https://www.kaggle.com/datasets/yassershrief/goggle-play-data ](https://www.kaggle.com/datasets/yassershrief/goggle-play-data?utm_source=chatgpt.com)
 
 [Google Play Store User Reviews - Kaggle](https://www.kaggle.com/datasets/rowemorehouse/googleplaystoreuserreviews)
             
-* **Apps table:** 9,637 apps (post-cleaning) — category, rating, installs, price, size, type, content rating
+* **Apps table:** 9,638 apps (post-cleaning) — category, rating, installs, price, size, type, content rating
 * **Reviews table:** ~64,000 user reviews with sentiment labels (Positive / Negative / Neutral)
 
 Same cleaned dataset used in my [Python EDA project](https://github.com/Dhanush086/Playstore-app-review-analysis) — re-validated and further cleaned in Power Query for this dashboard (deduplication, type conversion, malformed value handling).
@@ -76,7 +77,7 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 ##  Links
 
 * **Interactive file:** [playstore_dashbord.pbix ](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pbix)— download and open in Power BI Desktop (free) to explore all filters and interactions
-* **Static PDF export:**##  [Download the Dashboard PDF](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pdf)
+* **Static PDF export:** [Download the Dashboard PDF](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pdf)
 
 > A live Power BI Service shareable link isn't included, as publishing requires a work/school email domain. The `.pbix` file and PDF export provide full access to the dashboard and its design.
 
