@@ -1,22 +1,21 @@
-#  Play Store App Performance & Sentiment Dashboard
+# Play Store App Performance & Sentiment Dashboard
 
 An interactive Power BI dashboard analyzing app performance, pricing strategy, and user sentiment across the Google Play Store — built as a follow-up to my [Play Store EDA project](https://github.com/Dhanush086/Playstore-app-review-analysis) (Python/Pandas), translating those findings into a business-ready visual tool.
 
 ---
 
-##  Business Objective
+## Business Objective
 
 **How can app publishers and product teams use category performance, pricing strategy, and user sentiment data to identify which app categories offer the best growth and monetization opportunities?**
 
 ---
 
-##  Dataset
+## Dataset
 
 **Source:**
-[https://www.kaggle.com/datasets/yassershrief/goggle-play-data ](https://www.kaggle.com/datasets/yassershrief/goggle-play-data?utm_source=chatgpt.com)
+- [Google Play Store Apps - Kaggle](https://www.kaggle.com/datasets/yassershrief/goggle-play-data)
+- [Google Play Store User Reviews - Kaggle](https://www.kaggle.com/datasets/rowemorehouse/googleplaystoreuserreviews)
 
-[Google Play Store User Reviews - Kaggle](https://www.kaggle.com/datasets/rowemorehouse/googleplaystoreuserreviews)
-            
 * **Apps table:** 9,638 apps (post-cleaning) — category, rating, installs, price, size, type, content rating
 * **Reviews table:** ~64,000 user reviews with sentiment labels (Positive / Negative / Neutral)
 
@@ -24,7 +23,7 @@ Same cleaned dataset used in my [Python EDA project](https://github.com/Dhanush0
 
 ---
 
-##  Tools Used
+## Tools Used
 
 * **Power BI Desktop** — data modeling, DAX measures, visualization
 * **Power Query** — data cleaning: type conversion, deduplication, merge
@@ -32,7 +31,7 @@ Same cleaned dataset used in my [Python EDA project](https://github.com/Dhanush0
 
 ---
 
-##  Dashboard Overview
+## Dashboard Overview
 
 A single-page interactive dashboard with **7 visuals** and **3 global slicers** (Category, Type, Content Rating).
 
@@ -48,10 +47,10 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 
 ---
 
-##  Key Insights
+## Key Insights
 
-* 9,637 apps analyzed, averaging a **4.28** rating, with over **3 trillion** combined installs
-* **Games (616bn)** and **Communication (451bn)** apps dominate total installs, far ahead of every other category
+* 9,638 apps analyzed, averaging a **4.28** rating
+* **Games** and **Communication** apps dominate total installs, far ahead of every other category
 * Category average ratings cluster tightly between **4.0–4.5** — few categories significantly under- or out-perform the pack
 * Among paid apps, higher price does **not** clearly correlate with higher rating — quality is fairly independent of price point
 * **64% Positive / 22% Negative / 14% Neutral** — sentiment breakdown varies notably by category, revealing categories with strong install/rating numbers that still carry a meaningful share of negative reviews
@@ -64,28 +63,28 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 
 ![Dashboard Default View](screenshots/dashboard_default.png)
 
-### Filtered View
+### Filtered View — Category: Game
 
 ![Dashboard Filtered View](screenshots/dashboard_filtered.png)
 
-### Presentation Mode
+### presentation view
 
-![Dashboard Presentation Mode](screenshots/dashboard_presentation_mode.png)
+![Dashboard Presentation View](screenshots/dashboard_presentation_view.png)
 
 ---
 
-##  Links
+## Links
 
-* **Interactive file:** [playstore_dashbord.pbix ](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pbix)— download and open in Power BI Desktop (free) to explore all filters and interactions
+* **Interactive file:** [playstore_dashbord.pbix](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pbix) — download and open in Power BI Desktop (free) to explore all filters and interactions
 * **Static PDF export:** [Download the Dashboard PDF](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pdf)
 
 > A live Power BI Service shareable link isn't included, as publishing requires a work/school email domain. The `.pbix` file and PDF export provide full access to the dashboard and its design.
 
 ---
 
-##  Documentation
+## Documentation
 
-Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in [`documentation.pdf`](documentation.pdf).
+Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in [`playstore_dashbord.pdf`](playstore_dashbord.pdf).
 
 ---
 
@@ -95,4 +94,3 @@ Full documentation — including dataset details, per-visual insight explanation
 Data Analytics | Python | Pandas | Power BI | Data Visualization
 
 [GitHub](https://github.com/Dhanush086)
-
