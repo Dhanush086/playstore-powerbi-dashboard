@@ -74,8 +74,8 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 
 ## Links
 
-* **Interactive file:** [playstore_dashbord.pbix](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pbix) — download and open in Power BI Desktop (free) to explore all filters and interactions
-* **Static PDF export:** [Download the Dashboard PDF](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashbord.pdf)
+* **Interactive file:** [playstore_dashboard.pbix](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_dashboard.pbix) — download and open in Power BI Desktop (free) to explore all filters and interactions
+* **Static PDF export:** [Download the Dashboard PDF](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/playstore_project.pdf)
 
 > A live Power BI Service shareable link isn't included, as publishing requires a work/school email domain. The `.pbix` file and PDF export provide full access to the dashboard and its design.
 
@@ -83,7 +83,7 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 
 ## Documentation
 
-Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in [`playstore_dashbord.pdf`](playstore_dashbord.pdf).
+Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in [`playstore_project.pdf`](playstore_project.pdf).
 
 ---
 
