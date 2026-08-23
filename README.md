@@ -60,8 +60,7 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 ## Dashboard Preview
 
 ### Default View
-
-![Dashboard Default View](screenshots/dashboard_default.png)
+![Power BI Dashboard](screenshots/dashboard_default_view.png)
 
 ### Filtered View — Category: Game
 
