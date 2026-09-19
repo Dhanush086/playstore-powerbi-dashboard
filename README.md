@@ -83,7 +83,7 @@ A single-page interactive dashboard with **7 visuals** and **3 global slicers** 
 
 ## Documentation
 
-Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in [`playstore_project.pdf`](playstore_project.pdf).
+Full documentation — including dataset details, per-visual insight explanations, and screenshots — is available in [`Play Store App Performance documentation.pdf`](https://github.com/Dhanush086/playstore-powerbi-dashboard/blob/main/Play%20Store%20App%20Performance%20documentation.pdf)
 
 ---
 
